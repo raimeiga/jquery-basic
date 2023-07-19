@@ -8,4 +8,5 @@ $(function() {
   $('#hide').on('click', function(){
     $('ul').hide();
   });
+  
   });
